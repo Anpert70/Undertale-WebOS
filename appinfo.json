@@ -1,0 +1,9 @@
+{
+    "vendor": "My Company",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.tobyfox.undertale",
+    "title": "Undertale",
+    "type": "web",
+    "version": "0.0.1"
+}
